@@ -1,0 +1,23 @@
+{
+  "name": "date-round",
+  "version": "0.0.1",
+  "author": "Daniel Sauble",
+  "description": "Round dates to day/week/month/year boundaries",
+  "keywords": [
+    "date",
+    "round",
+    "math"
+  ],
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "browserify": "*",
+    "grunt": "*",
+    "grunt-browserify": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-qunit": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/djsauble/date-round.git"
+  }
+}
